@@ -2,7 +2,7 @@
 
 A semantic image search system powered by OpenAI's CLIP model and Facebook's FAISS library. Search through images using natural language queries by leveraging the power of multimodal embeddings.
 
-<img width="1200" height="772" alt="image" src="https://github.com/user-attachments/assets/936abcb8-27cd-49c3-87a1-3b2b123c8f98" />
+<img width="1200" height="772" alt="image" src="https://github.com/user-attachments/assets/e2bb2c7b-2c80-4dc2-b9fb-ef07bbf2d2fd" />
 
 ## 🔍 What is Image Search with FAISS?
 
