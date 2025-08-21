@@ -1,0 +1,7 @@
+torch
+clip-by-openai
+Pillow
+faiss-cpu
+fastapi
+uvicorn[standard]
+python-multipart
